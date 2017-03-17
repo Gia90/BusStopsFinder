@@ -32,7 +32,7 @@ and then install them with `pip install path\to\the\package.whl`
 For Linux, a ready to install python dependency packages should be available in the distro repositories.
 
 
-##Development and Testing
+## Development and Testing
 
 To prepare the development environment, just follow the first 3 steps of the [Setup and Usage](#setup-and-usage) paragraph.
 
@@ -40,7 +40,7 @@ For testing the project, activate your virtual env ( second step of [Setup and U
 
 > python -m unittest discover
 
-##Credits
+## Credits
 [OpenStreetMap](https://www.openstreetmap.org) for the webGIS base map and Bus stops and stations data.
 
 [Overpass-Turbo](https://overpass-turbo.eu/) for the bus data export from OSM.
