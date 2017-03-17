@@ -1,0 +1,1671 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2017-02-27T12:00:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/252638812",
+      "properties": {
+        "@id": "node/252638812",
+        "amenity": "bus_station",
+        "name": "Midizini -Manzese Bus Stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2357902,
+          -6.8005656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/274009472",
+      "properties": {
+        "@id": "node/274009472",
+        "amenity": "bus_station",
+        "name": "UDA Bus Terminal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2743881,
+          -6.8273816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/282768345",
+      "properties": {
+        "@id": "node/282768345",
+        "amenity": "bus_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2292282,
+          -6.7632242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/282781334",
+      "properties": {
+        "@id": "node/282781334",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2470475,
+          -6.7558426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/282783001",
+      "properties": {
+        "@id": "node/282783001",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2603031,
+          -6.7663813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/331515577",
+      "properties": {
+        "@id": "node/331515577",
+        "amenity": "bus_station",
+        "name": "Kibada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.3391102,
+          -6.8917576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/338962687",
+      "properties": {
+        "@id": "node/338962687",
+        "amenity": "bus_station",
+        "name": "Kivule Ccm Bus Stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.1798313,
+          -6.9396018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/338965373",
+      "properties": {
+        "@id": "node/338965373",
+        "amenity": "bus_station",
+        "name": "Kinyantira Bus Stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2203177,
+          -6.9054517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/338967987",
+      "properties": {
+        "@id": "node/338967987",
+        "amenity": "bus_station",
+        "name": "Machimbo Bus Stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.1836751,
+          -6.9037115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/369771990",
+      "properties": {
+        "@id": "node/369771990",
+        "amenity": "bus_station",
+        "name": "Tabata Segerea Bus Stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.1857353,
+          -6.8431093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/369773511",
+      "properties": {
+        "@id": "node/369773511",
+        "amenity": "bus_station",
+        "name": "Bonyokwa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.1669346,
+          -6.8266408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/370207097",
+      "properties": {
+        "@id": "node/370207097",
+        "amenity": "bus_station",
+        "name": "Lumo Corner"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2243484,
+          -6.8750596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/921491590",
+      "properties": {
+        "@id": "node/921491590",
+        "name": "Morroco Bus Stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2634554,
+          -6.7785459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/922241127",
+      "properties": {
+        "@id": "node/922241127",
+        "name": "Kanisani",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.263833,
+          -6.7822793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/922241339",
+      "properties": {
+        "@id": "node/922241339",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2466886,
+          -6.7557693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/922241344",
+      "properties": {
+        "@id": "node/922241344",
+        "name": "Kisiwani (Shoppers)",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.263022,
+          -6.7692319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/922242080",
+      "properties": {
+        "@id": "node/922242080",
+        "name": "Morocco",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2648489,
+          -6.7771038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/922242081",
+      "properties": {
+        "@id": "node/922242081",
+        "name": "Morocco",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2644305,
+          -6.7774021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/922243970",
+      "properties": {
+        "@id": "node/922243970",
+        "name": "Selander Bridge",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2804809,
+          -6.7929991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/922244964",
+      "properties": {
+        "@id": "node/922244964",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2894269,
+          -6.8185033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/922246405",
+      "properties": {
+        "@id": "node/922246405",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2772709,
+          -6.8266672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/924275736",
+      "properties": {
+        "@id": "node/924275736",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.277757,
+          -6.7614352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1745366048",
+      "properties": {
+        "@id": "node/1745366048",
+        "amenity": "bus_station",
+        "name": "Bonyokwa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.1589259,
+          -6.8199588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1885101686",
+      "properties": {
+        "@id": "node/1885101686",
+        "amenity": "bus_station",
+        "name": "Kimara Mwisho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.1669931,
+          -6.7889331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1902161845",
+      "properties": {
+        "@id": "node/1902161845",
+        "amenity": "bus_station",
+        "name": "Moshi Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.1681623,
+          -6.9100141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2163190605",
+      "properties": {
+        "@id": "node/2163190605",
+        "amenity": "bus_station",
+        "name": "Kilimanjaro Express"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2822731,
+          -6.8163305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2802178270",
+      "properties": {
+        "@id": "node/2802178270",
+        "amenity": "bus_station",
+        "name": "Ungindoni"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.3537266,
+          -6.8629109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2926246587",
+      "properties": {
+        "@id": "node/2926246587",
+        "amenity": "bus_station",
+        "name": "Kisiwani"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.3220852,
+          -6.8634992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3217575838",
+      "properties": {
+        "@id": "node/3217575838",
+        "bus": "yes",
+        "covered": "yes",
+        "name": "\"Ferry/Kivukoni\"",
+        "public_transport": "platform",
+        "share_taxi": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2988143,
+          -6.8194009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3217575843",
+      "properties": {
+        "@id": "node/3217575843",
+        "bus": "yes",
+        "covered": "yes",
+        "name": "City Council",
+        "public_transport": "platform",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2875667,
+          -6.8198186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3217575851",
+      "properties": {
+        "@id": "node/3217575851",
+        "bus": "yes",
+        "covered": "yes",
+        "name": "Kimara",
+        "public_transport": "platform",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.1667756,
+          -6.7869724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3217575853",
+      "properties": {
+        "@id": "node/3217575853",
+        "bus": "yes",
+        "covered": "yes",
+        "name": "Kisutu",
+        "public_transport": "platform",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2822172,
+          -6.8171891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3217575859",
+      "properties": {
+        "@id": "node/3217575859",
+        "bus": "yes",
+        "name": "Posta",
+        "public_transport": "platform",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2901995,
+          -6.8184141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3516904843",
+      "properties": {
+        "@id": "node/3516904843",
+        "amenity": "bus_station",
+        "name": "kongowe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2830356,
+          -6.9542305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3685008288",
+      "properties": {
+        "@id": "node/3685008288",
+        "amenity": "bus_station",
+        "name": "Buguruni"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2458915,
+          -6.8357281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3696861682",
+      "properties": {
+        "@id": "node/3696861682",
+        "amenity": "bus_station",
+        "name": "Banana Bus Stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.1894425,
+          -6.8714625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3698178025",
+      "properties": {
+        "@id": "node/3698178025",
+        "amenity": "bus_station",
+        "name": "Kibeberu Bus Stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.203744,
+          -6.9205508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3698178026",
+      "properties": {
+        "@id": "node/3698178026",
+        "amenity": "bus_station",
+        "name": "Kitunda Bus Stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.1986017,
+          -6.8998767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3698220057",
+      "properties": {
+        "@id": "node/3698220057",
+        "amenity": "bus_station",
+        "name": "Magole Bus Stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2012264,
+          -6.9404375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3698220058",
+      "properties": {
+        "@id": "node/3698220058",
+        "amenity": "bus_station",
+        "name": "Mombasa Bus Stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.1707914,
+          -6.8766488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3698220059",
+      "properties": {
+        "@id": "node/3698220059",
+        "amenity": "bus_station",
+        "name": "Mwanagati Bus Stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2136801,
+          -6.9123499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3698286713",
+      "properties": {
+        "@id": "node/3698286713",
+        "amenity": "bus_station",
+        "name": "Machimbo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.1837846,
+          -6.9036504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3698315270",
+      "properties": {
+        "@id": "node/3698315270",
+        "amenity": "bus_station",
+        "name": "Stesheni"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2853314,
+          -6.8221357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3698315332",
+      "properties": {
+        "@id": "node/3698315332",
+        "amenity": "bus_station",
+        "name": "Temeke Mwisho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2660491,
+          -6.8647745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3698315614",
+      "properties": {
+        "@id": "node/3698315614",
+        "amenity": "bus_station",
+        "name": "Kigamboni Bus Stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.3033436,
+          -6.8241059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3698315616",
+      "properties": {
+        "@id": "node/3698315616",
+        "amenity": "bus_station",
+        "name": "Vijibweni Bus Stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.3098783,
+          -6.8699593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3698350751",
+      "properties": {
+        "@id": "node/3698350751",
+        "amenity": "bus_station",
+        "fixme": "check",
+        "name": "Mawasiliano Bus Stand",
+        "noexit": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2161749,
+          -6.7882048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3698350753",
+      "properties": {
+        "@id": "node/3698350753",
+        "amenity": "bus_station",
+        "name": "Sinza Bus Stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2154738,
+          -6.7879707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3698350754",
+      "properties": {
+        "@id": "node/3698350754",
+        "amenity": "bus_station",
+        "name": "Tegeta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.1839347,
+          -6.6579845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3698416420",
+      "properties": {
+        "@id": "node/3698416420",
+        "amenity": "bus_station",
+        "name": "mbezi luis bus stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.1121787,
+          -6.7862874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3698416925",
+      "properties": {
+        "@id": "node/3698416925",
+        "amenity": "bus_station",
+        "name": "posta bus stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2883187,
+          -6.8151962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3698436413",
+      "properties": {
+        "@id": "node/3698436413",
+        "amenity": "bus_station",
+        "name": "mbezi luis bus stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.1122715,
+          -6.7862676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3698444727",
+      "properties": {
+        "@id": "node/3698444727",
+        "amenity": "bus_station",
+        "name": "kariakoo bus stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2721989,
+          -6.8190798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3698467498",
+      "properties": {
+        "@id": "node/3698467498",
+        "amenity": "bus_station",
+        "name": "TABATA KIMANGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2025286,
+          -6.8280139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3698471131",
+      "properties": {
+        "@id": "node/3698471131",
+        "amenity": "bus_station",
+        "name": "Kinyerezi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.1499581,
+          -6.8406977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3698472890",
+      "properties": {
+        "@id": "node/3698472890",
+        "amenity": "bus_station",
+        "name": "mbezi luis bus stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.1123591,
+          -6.7862479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3698481115",
+      "properties": {
+        "@id": "node/3698481115",
+        "amenity": "bus_station",
+        "name": "Majumba Sita"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.19278,
+          -6.8677847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3698497134",
+      "properties": {
+        "@id": "node/3698497134",
+        "amenity": "bus_station",
+        "name": "buguruni bus stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2443129,
+          -6.8372795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3698497135",
+      "properties": {
+        "@id": "node/3698497135",
+        "amenity": "bus_station",
+        "name": "mbezi luis bus stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.1120666,
+          -6.7862778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3698510592",
+      "properties": {
+        "@id": "node/3698510592",
+        "amenity": "bus_station",
+        "name": "Tabata Kinyerezi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.1498218,
+          -6.8407095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3698536326",
+      "properties": {
+        "@id": "node/3698536326",
+        "amenity": "bus_station",
+        "name": "Tandika"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2621488,
+          -6.8687474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3698539499",
+      "properties": {
+        "@id": "node/3698539499",
+        "amenity": "bus_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2801096,
+          -6.7415347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3698554300",
+      "properties": {
+        "@id": "node/3698554300",
+        "amenity": "bus_station",
+        "name": "Buza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2258552,
+          -6.8923331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3698554301",
+      "properties": {
+        "@id": "node/3698554301",
+        "amenity": "bus_station",
+        "name": "Shule Ya Uhuru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2736192,
+          -6.8248461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3698554302",
+      "properties": {
+        "@id": "node/3698554302",
+        "amenity": "bus_station",
+        "name": "Tandika"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2607563,
+          -6.8678582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3698554308",
+      "properties": {
+        "@id": "node/3698554308",
+        "amenity": "bus_station",
+        "name": "Barakuda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2109085,
+          -6.8415542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3698592661",
+      "properties": {
+        "@id": "node/3698592661",
+        "amenity": "bus_station",
+        "name": "Kawe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2214332,
+          -6.7362375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3698614457",
+      "properties": {
+        "@id": "node/3698614457",
+        "amenity": "bus_station",
+        "highway": "bus_stop",
+        "name": "Vingunguti bus stop",
+        "name:en": "Vingunguti bus stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2369467,
+          -6.8482585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3709200823",
+      "properties": {
+        "@id": "node/3709200823",
+        "amenity": "bus_station",
+        "name": "Mbagala Rangi 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.270249,
+          -6.9173347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3709200824",
+      "properties": {
+        "@id": "node/3709200824",
+        "amenity": "bus_station",
+        "name": "Stesheni"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2850401,
+          -6.8219305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3709209425",
+      "properties": {
+        "@id": "node/3709209425",
+        "amenity": "bus_station",
+        "name": "Midizini -Manzese Bus Stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2456758,
+          -6.8035821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3709209426",
+      "properties": {
+        "@id": "node/3709209426",
+        "amenity": "bus_station",
+        "name": "Rosana- Buguruni Bus Stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2460351,
+          -6.8357355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3709241003",
+      "properties": {
+        "@id": "node/3709241003",
+        "amenity": "bus_station",
+        "name": "Kivukoni"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.297991,
+          -6.8199335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3709241004",
+      "properties": {
+        "@id": "node/3709241004",
+        "amenity": "bus_station",
+        "name": "Mnazi Mmoja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2807121,
+          -6.8213972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3709270460",
+      "properties": {
+        "@id": "node/3709270460",
+        "amenity": "bus_station",
+        "name": "Tandika"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2630748,
+          -6.8626583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3735860657",
+      "properties": {
+        "@id": "node/3735860657",
+        "amenity": "bus_station",
+        "name": "Rosana- Buguruni Bus Stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2474418,
+          -6.8332244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3750608525",
+      "properties": {
+        "@id": "node/3750608525",
+        "amenity": "bus_station",
+        "name": "Njia Panda Kigogo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2542236,
+          -6.8158407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4398716399",
+      "properties": {
+        "@id": "node/4398716399",
+        "amenity": "bus_station",
+        "name": "Tanki bovu Bus Stand",
+        "name:en": "Tanki bovu Bus Stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2148608,
+          -6.7276727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4398748789",
+      "properties": {
+        "@id": "node/4398748789",
+        "amenity": "bus_station",
+        "name": "Ubungo Darajani",
+        "name:en": "Ubungo Darajani"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2109247,
+          -6.7935383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4398847292",
+      "properties": {
+        "@id": "node/4398847292",
+        "amenity": "bus_station",
+        "name": "Tank Bovu Bus Station",
+        "name:en": "Tank Bovu Bus Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2146672,
+          -6.728525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4399377889",
+      "properties": {
+        "@id": "node/4399377889",
+        "amenity": "bus_station",
+        "name": "Mwenge Old Bus Station",
+        "name:en": "Mwenge Old Bus Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2290872,
+          -6.7648357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4401054994",
+      "properties": {
+        "@id": "node/4401054994",
+        "amenity": "bus_station",
+        "name": "maramba stand",
+        "name:en": "maramba stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.1122582,
+          -6.7868968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4427354198",
+      "properties": {
+        "@id": "node/4427354198",
+        "amenity": "bus_station",
+        "name:en": "Mombasa bus stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.1708375,
+          -6.8766513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4427354592",
+      "properties": {
+        "@id": "node/4427354592",
+        "amenity": "bus_station",
+        "name:en": "Machimbo bus stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.1837073,
+          -6.9037138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4427390489",
+      "properties": {
+        "@id": "node/4427390489",
+        "amenity": "bus_station",
+        "name:en": "Banana bus stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.1894722,
+          -6.8714685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4478228792",
+      "properties": {
+        "@id": "node/4478228792",
+        "amenity": "bus_station",
+        "name": "Vingunguti Bus Terminal",
+        "name:fr": "Vingunguti Arrêt de Bus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2251146,
+          -6.845598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4555098990",
+      "properties": {
+        "@id": "node/4555098990",
+        "amenity": "bus_station",
+        "name": "Mbezi luis bus stand",
+        "name:en": "Mbezi luis bus stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.1120836,
+          -6.7863168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4555554996",
+      "properties": {
+        "@id": "node/4555554996",
+        "amenity": "bus_station",
+        "name": "Banana bus station",
+        "name:en": "Banana bus station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.1894733,
+          -6.8715033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4555556694",
+      "properties": {
+        "@id": "node/4555556694",
+        "amenity": "bus_station",
+        "name": "Mombasa bus stand",
+        "name:en": "Mombasa bus stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.170833,
+          -6.8767025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4555570894",
+      "properties": {
+        "@id": "node/4555570894",
+        "amenity": "bus_station",
+        "name": "Mwanagati Bus stop",
+        "name:en": "Mwanagati Bus stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2136177,
+          -6.9124192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4556897789",
+      "properties": {
+        "@id": "node/4556897789",
+        "amenity": "bus_station",
+        "name": "UDA bus terminal",
+        "name:en": "UDA bus terminal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2743955,
+          -6.82742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4558024093",
+      "properties": {
+        "@id": "node/4558024093",
+        "amenity": "bus_station",
+        "name": "Majohe bus station",
+        "name:en": "Majohe bus station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.1408311,
+          -6.9033363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4566670494",
+      "properties": {
+        "@id": "node/4566670494",
+        "amenity": "bus_station",
+        "name": "Lumo corner",
+        "name:en": "Lumo corner"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2243498,
+          -6.8750929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4570121210",
+      "properties": {
+        "@id": "node/4570121210",
+        "amenity": "bus_station",
+        "name": "Sinza bus station",
+        "name:en": "Sinza bus station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2234447,
+          -6.7807267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4570139996",
+      "properties": {
+        "@id": "node/4570139996",
+        "amenity": "bus_station",
+        "name": "Mwenge bus old station",
+        "name:en": "Mwenge bus old station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2290369,
+          -6.7648369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4570143390",
+      "properties": {
+        "@id": "node/4570143390",
+        "amenity": "bus_station",
+        "name": "Mawasiliano bus stand police station",
+        "name:en": "Mawasiliano bus stand police station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2166632,
+          -6.7873447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4574489093",
+      "properties": {
+        "@id": "node/4574489093",
+        "amenity": "bus_station",
+        "name": "Mnazi mmoja",
+        "name:en": "Mnazi mmoja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2806296,
+          -6.8212228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4580508492",
+      "properties": {
+        "@id": "node/4580508492",
+        "amenity": "bus_station",
+        "name": "Tabata matumbi",
+        "name:en": "Tabata matumbi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2298173,
+          -6.8242563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4580616990",
+      "properties": {
+        "@id": "node/4580616990",
+        "amenity": "bus_station",
+        "name": "Tazara bus station",
+        "name:en": "Tazara bus station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2438039,
+          -6.8447253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4674830089",
+      "properties": {
+        "@id": "node/4674830089",
+        "name": "Chama",
+        "name:en": "Chama",
+        "operator": "Municipal",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2597906,
+          -6.7659516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4696368034",
+      "properties": {
+        "@id": "node/4696368034",
+        "name": "Kisiwani",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2633355,
+          -6.7693291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4696386893",
+      "properties": {
+        "@id": "node/4696386893",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2737239,
+          -6.8063333
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "gis-code-challenge",
+  "version": "1.0.0",
+  "description": "WebGIS to show bus stops for gis-code-challenge",
+  "main": "nodeServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gianluca Giorgio",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
